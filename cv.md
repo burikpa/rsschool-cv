@@ -8,7 +8,7 @@ function testCycle(n){
         x=x+i;
     }
     return x;
-}
+};
 No work experience. I took JS courses for beginners on Stepik. 
 Higher medical education, JS courses for beginners on stepik.
 english level A1.
